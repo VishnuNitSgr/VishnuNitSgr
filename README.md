@@ -2,7 +2,7 @@
 <br><br>
 
 # 💫 About Me:
-## 👋 About Me<br>Aspiring Software Developer | DSA Enthusiast | Full Stack Web Developer  <br>Focused on writing clean code, solving problems, and learning new technologies.<br>
+## <br>Aspiring Software Developer | DSA Enthusiast | Full Stack Web Developer  <br>Focused on writing clean code, solving problems, and learning new technologies.<br>
 
 
 ## TECH STACKS-
@@ -33,12 +33,21 @@
 <br><br>    
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishnuNitSgr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VishnuNitSgr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuNitSgr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VishnuNitSgr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=VishnuNitSgr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VishnuNitSgr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VishnuNitSgr&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VishnuNitSgr
+.VishnuNitSgr
+" />
 
 
 
