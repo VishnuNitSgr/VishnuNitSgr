@@ -49,7 +49,13 @@
 .VishnuNitSgr
 " />
 
+## 🌈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuNitSgr&bg_color=0d1117&color=a855f7&line=6366f1&point=f472b6&area=true&hide_border=true" alt="Vishnu's contribution graph"/>
+</p>
+
+---
 
 
 ```
