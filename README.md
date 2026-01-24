@@ -95,15 +95,7 @@
 
 <div align="center">
 
-<!-- Visitor Badge -->
-<img 
-  src="https://visitor-badge.laobi.icu/badge?page_id=VishnuNitSgr.VishnuNitSgr" 
-  alt="Visitor Badge" 
-  title="Thanks for visiting my profile!" 
-  style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"
-/>
 
-</div>
 
 ---
 
