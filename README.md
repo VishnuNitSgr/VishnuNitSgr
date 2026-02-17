@@ -65,6 +65,8 @@
 
 <div align="center">
 
+
+
 <!-- GitHub Streak Stats -->
 <img 
   width="380" 
@@ -117,6 +119,11 @@
   📈 Tracking my coding journey & contributions in open source.  
   Let's connect and collaborate! 🚀
 </p>
+<!-- Snake game repo view -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 ```
