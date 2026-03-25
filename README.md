@@ -121,7 +121,9 @@
 </p>
 <!-- Snake game repo view -->
 
-![Snake animation](https://github.com/VishnuNitSgr/VishnuNitSgr/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/VishnuNitSgr/VishnuNitSgr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 
 ---
