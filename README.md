@@ -3,7 +3,7 @@
 
 # 💫 About Me
 
-## 👋 Hello! I'm Vishnu
+## 👋 Hello!
 ### Aspiring **Software Developer** | **DSA Enthusiast** | Full Stack Web Developer  
 
 💻 I love **building clean, efficient, and scalable code**.  
